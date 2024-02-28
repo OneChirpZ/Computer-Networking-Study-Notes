@@ -7,6 +7,17 @@
 - 笔记中的内容主要归纳总结自 James F. Kurose 所著《计算机网络：自顶向下方法（第七版）》中文版、英文版。
 - 部分内容还参考了谢希仁老师编著的《计算机网络 第7版》、小林 Coding 的图解网络 v 3.0 以及一些网络博客。
 
+## 食用方法
+
+### 方法 1：保存至本地（👍）
+1. 安装一款支持 Markdown 的文本编辑器，如：[Typora](https://typoraio.cn/)、[Visual Studio Code](https://code.visualstudio.com/)、[Obsidian](https://obsidian.md/)...
+2. 将该仓库通过 `git clone https://github.com/OneChirpZ/Computer-Networking-Study-Notes.git` 克隆至本地，或直接下载并解压本仓库的 zip 压缩包。
+3. 通过你所安装的文本编辑器打开该仓库的文件夹。
+
+### 方法 2：在线阅读
+
+- 直接点击上方目录中对应的 `.md` 文件阅读。
+
 ## 说明
 
 - 笔记中的内容为个人学习计算机网络时整理，**难免会存在疏漏**。
