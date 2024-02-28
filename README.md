@@ -1,6 +1,6 @@
 # Computer-Networking-Study-Notes
 
-个人在学习 “计算机网络” 课程时的笔记，推荐使用 [Typora](https://typoraio.cn/) 以获得最佳编辑和阅读体验。
+个人在学习 “计算机网络” 课程时的笔记，推荐使用 [Typora](https://typoraio.cn/) 以获得最佳编辑和阅读体验。如果你觉得内容质量不错，欢迎 Star！
 
 ## 内容来源
 
